@@ -1,0 +1,15 @@
+{
+  "name": "VT - Valorant Tracker",
+  "short_name": "VT",
+  "start_url": "/VALORANT-TIP/",
+  "display": "standalone",
+  "background_color": "#0f1923",
+  "theme_color": "#ff4655",
+  "icons": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Valorant_logo_-_pink_color_version.svg/512px-Valorant_logo_-_pink_color_version.svg.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
